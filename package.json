@@ -1,0 +1,23 @@
+{
+  "name": "foxpeak",
+  "version": "1.0.0",
+  "description": "Puff puff pass.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FoxCouncil/FoxPeak.git"
+  },
+  "keywords": [
+    "puffco",
+    "peakpro"
+  ],
+  "author": "Fox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FoxCouncil/FoxPeak/issues"
+  },
+  "homepage": "https://github.com/FoxCouncil/FoxPeak#readme"
+}
